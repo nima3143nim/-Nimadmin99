@@ -237,7 +237,7 @@ function create_config( )
 end
 
 function on_NImadmin99(id)
-  our_id = id
+  our_id = nimadmin99
 end
 
 function on_user_update (user, what)
